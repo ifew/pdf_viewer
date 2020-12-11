@@ -1,7 +1,7 @@
 # pdf_viewer
 How to protected download, print and save pdf file
 
-## 2 Method
+## 2 Methods
 
 1. iFrame
 It's can protect download via toolbar, but can right mouse click to save as file
